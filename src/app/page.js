@@ -6,7 +6,7 @@ export default function Home() {
   <h1 className="text-3xl font-bold underline">
       Hello
     </h1>
-    
+    <h2>another contribution</h2>
   </>
     
   )
